@@ -4,7 +4,7 @@ INSTALACIÓN
 - Actualizar las credenciales conexion a la base de datos en los archivos
 conexion_global/r_conexion.php
 modelo/modelo_conexion.php
-- Iniciar el proyecto con la siguiente http://localhost:8080/ProyectoFinal/vista/login.php, importante destacar que el puerto puede cambiar dependiendo el que se tenga configurado en su maquina.
+- Iniciar el proyecto con la siguiente http://localhost/ProyectoFinal/vista/login.php, importante destacar que el puerto puede cambiar dependiendo el que se tenga configurado en su maquina.
 
 -CREDENCIALES ADMINISTRADOR
 ADMIN
